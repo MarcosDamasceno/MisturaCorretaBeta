@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Mistura CorretaBeta</string>
+    <string name="action_salvar">Salvar perfil</string>
+    <string name="action_perfil1">Perfil 1</string>
+    <string name="action_perfil2">Perfil 2</string>
+    <string name="action_perfil3">Perfil 3</string>
+    <string name="str_lbl_main1">Quanto quer abastecer?</string>
+    <string name="str_lbl_main2">Qual a proporção em litros dos combustíveis?</string>
+    <string name="str_lbl_main3">Qual o preço do combustível 1?</string>
+    <string name="str_lbl_main4">Qual o preço do combustível 2?</string>
+    <string name="str_lbl_main5">Abasteça</string>
+    <string name="str_lbl_desccomb1">Combustível 1:</string>
+    <string name="str_lbl_desccomb2">Combustível 2:</string>
+    <string name="str_lbl_desctotal">Totais</string>
+    <string name="str_lbl_desclts">Litros</string>
+    <string name="str_lbl_descvlr">Valor</string>
+    <string name="str_lbl_test">000000</string>
+
+    <string name="str_btn_main1">Avançar</string>
+    <string name="str_btn_main2">Calcular</string>
+    <string name="str_btn_10">10</string>
+    <string name="str_btn_20">20</string>
+    <string name="str_btn_50">50</string>
+    <string name="str_btn_100">100</string>
+    <string name="str_btn_001">0,01</string>
+    <string name="str_btn_010">0,10</string>
+    <string name="str_btn_050">0,50</string>
+    <string name="str_btn_1">1,00</string>
+    <string name="str_btn_clear">Limpar</string>
+</resources>

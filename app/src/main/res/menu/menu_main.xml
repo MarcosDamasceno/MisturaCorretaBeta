@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.meumds.misturacorretabeta.MainActivity">
+    <item
+        android:id="@+id/action_perfil1"
+        android:orderInCategory="101"
+        android:title="@string/action_perfil1" />
+    <item
+        android:id="@+id/action_perfil2"
+        android:orderInCategory="101"
+        android:title="@string/action_perfil2" />
+    <item
+        android:id="@+id/action_perfil3"
+        android:orderInCategory="101"
+        android:title="@string/action_perfil3" />
+</menu>
